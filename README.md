@@ -16,4 +16,8 @@ This is a project to make native android apps using python.It has no application
   This can set text to textview at given id
     
   </li>
+    <li>
+  This can set caps to textview at given id
+    
+  </li>
 </ul>
